@@ -169,15 +169,11 @@ The slicers allow users to interactively filter the connected PivotTables and da
 
 ```text
 Excel_Project_3/
-│
-├── E-Commerce_Sales_Operations_Analysis.xlsx
-│
-├── README.md
-│
-└── screenshots/
-    ├── Dashboard.png
-    ├── Analysis.png
-    └── Data_Calculations.png
+   E-Commerce_Sales_Operations_Analysis.xlsx
+   README.md│
+   screenshots/
+        Dashboard.png
+        Slicer.png
 ```
 
 ## Project Outcome
